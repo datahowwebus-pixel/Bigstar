@@ -1,0 +1,6 @@
+{
+  "name": "Bigstar Industries",
+  "description": "Bigstar Industries — Manufacturing & Global Exports portfolio showcasing Sportswear, Motorcycle Protective Gear, Medical Apparel, Leather Goods, and Industrial Workwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
